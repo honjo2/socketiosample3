@@ -5,7 +5,7 @@ Expressの雛形にsocket.ioでチャット機能を加えたものです
 
 ローカルで動かしたい場合は
 
->% git clone git@github.com:honjo2/socketiosample3.git socketiosample3
+>% git clone git@github.com:honjo2/socketiosample3.git
 
 >% cd socketiosample3
 
